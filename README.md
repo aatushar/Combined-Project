@@ -7,6 +7,8 @@ Project Preview.
 ![Home page](https://github.com/aatushar/Combined-Project/blob/main/combined_project/second.PNG)
 
 
+# Third-Party-API-Screen
+
 :pushpin: Third party API Screen:
 ![Home page](https://github.com/aatushar/Combined-Project/blob/main/combined_project/third.PNG)
 :pushpin: Google map screen
