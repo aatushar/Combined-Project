@@ -2,5 +2,5 @@
 Project Preview.
 ---------------------------------------------------------------------
 :pushpin: Home:
-![Home page](https://github.com/aatushar/Location-Based-Services-and-Notifications/blob/main/integrate_google_maps/Capture.PNG)
+![Home page](https://github.com/aatushar/Combined-Project/blob/main/combined_project/first.PNG)
 # Location-Based-Services-and-Notifications
